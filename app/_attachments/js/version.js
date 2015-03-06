@@ -1,0 +1,1 @@
+window.Tangerine = { buildVersion : "", version : ""};
